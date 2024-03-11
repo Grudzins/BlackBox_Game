@@ -1,0 +1,8 @@
+﻿  projrkt.cpp
+C:\Users\gruja\OneDrive\Pulpit\Projekt 1 PP\projrkt\projrkt\projrkt.cpp(10,29): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\gruja\OneDrive\Pulpit\Projekt 1 PP\projrkt\projrkt\projrkt.cpp(11,31): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\gruja\OneDrive\Pulpit\Projekt 1 PP\projrkt\projrkt\projrkt.cpp(12,27): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\gruja\OneDrive\Pulpit\Projekt 1 PP\projrkt\projrkt\projrkt.cpp(13,28): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\gruja\OneDrive\Pulpit\Projekt 1 PP\projrkt\projrkt\projrkt.cpp(14,27): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\gruja\OneDrive\Pulpit\Projekt 1 PP\projrkt\projrkt\projrkt.cpp(15,28): warning C4309: "inicjowanie": obcięcie stałej wartości
+  projrkt.vcxproj -> C:\Users\gruja\OneDrive\Pulpit\Projekt 1 PP\projrkt\x64\Debug\projrkt.exe
